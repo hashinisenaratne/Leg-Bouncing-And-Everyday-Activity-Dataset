@@ -28,4 +28,4 @@ The file structure of this repository demonstrates three main categories of move
 
 Each file is an instance of one movement type contributed by one leg of a participant and takes the name convention:
 
-<R/L - indicating which leg>\_\<movement tag>\_\<participant number>
+	•	<R/L - indicating which leg>\_\<movement tag>\_\<participant number>
