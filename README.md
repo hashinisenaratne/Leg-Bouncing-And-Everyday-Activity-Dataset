@@ -20,7 +20,8 @@ The file structure of this repository demonstrates three main categories of move
 		- feet tapping to music
 		
 	•	Leg bouncings 
-		- lower leg swinging (i.e., fast repetitive movement of the heel of one leg that is on the knee of the other leg), 
+		- lower leg swinging (fast repetitive movement of the heel of 
+		one leg that is on the knee of the other leg), 
 		- upper leg swinging (fast repetitive movement of both thighs in left and right directions while feet are constantly touching the ground) 
 		- jiggling (i.e., fast repetitive swings of the lower leg in which thigh is crossed over the other thigh), 
 		- fast repetitive toe tapping
